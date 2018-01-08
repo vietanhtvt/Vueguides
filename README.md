@@ -10,6 +10,7 @@
 # Cài đặt
 1. Download
     Mỗi version của Vue sẽ có hai phiên bản, một dành cho nhà phát triển (lập trình viên)  hay còn gọi là (development), vmột dành cho sản phẩm đã hoàn thiện (production). Điều này tương tự như jQuery bạn sẽ có 2 file, một file đã được nén gọn và một file chưa nén gọn.
+    
     Phiên bản development: https://vuejs.org/js/vue.js
     Phiên bản production: https://vuejs.org/js/vue.min.js
 1. Khả năng tương thích: 
