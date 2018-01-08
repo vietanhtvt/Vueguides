@@ -7,3 +7,4 @@
     •	VueJS 0.12
     •	VueJS 1.0
     •	VueJS 2.x
+#Cài đặt
