@@ -8,5 +8,5 @@
     •	VueJS 1.0
     •	VueJS 2.x
 # Cài đặt
-    #Khả năng tương thích:
+   #Khả năng tương thích:
     Do sử dụng một số tính năng ECMAScript 5 không được hỗ trợ trên IE8, Vue không hỗ trợ IE8 và các phiên bản thấp hơn. Tuy nhiên Vue hỗ trợ mọi trình duyệt tương thích với ECMAScript 5.
