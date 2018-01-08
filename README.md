@@ -36,3 +36,32 @@
         $ cd my-project
         $ npm install
         $ npm run dev
+#Ví dụ
+
+            <!DOCTYPE html>
+            <html>
+                <head>
+                    <title>VueJS Hello World</title>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <script language="javascript" src="https://vuejs.org/js/vue.js"></script>
+                    <script language="javascript">
+            window.onload = function(){
+                var app = new Vue({
+                    el: '#message',
+                    data: {
+                        name: "Hello world",  
+                        github: "https://github.com/vietanhtvt"
+                    }
+                });
+            };
+             
+        </script>
+    </head>
+    <body>
+        <div id="message">
+            Xin chào: {{name}} <br/>
+            Bạn đang đọc tài liệu tại: {{github}}
+        </div>
+    </body>
+    </html>
