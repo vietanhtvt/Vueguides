@@ -46,15 +46,15 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <script language="javascript" src="https://vuejs.org/js/vue.js"></script>
                 <script language="javascript">
-        window.onload = function(){
-            var app = new Vue({
-                el: '#message',
-                data: {
-                    name: "Hello world",  
-                    github: "https://github.com/vietanhtvt"
-                }
-            });
-        };
+                     window.onload = function(){
+                        var app = new Vue({
+                            el: '#message',
+                            data: {
+                                name: "Hello world",  
+                                github: "https://github.com/vietanhtvt"
+                            }
+                        });
+                    };
                 </script>
             </head>
         <body>
